@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leihaha.github.io</id>
     <title>奇那昂格</title>
-    <updated>2020-05-27T08:41:48.928Z</updated>
+    <updated>2020-08-28T03:19:40.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leihaha.github.io"/>
     <link rel="self" href="https://leihaha.github.io/atom.xml"/>
@@ -11,6 +11,86 @@
     <logo>https://leihaha.github.io/images/avatar.png</logo>
     <icon>https://leihaha.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 奇那昂格</rights>
+    <entry>
+        <title type="html"><![CDATA[本周文章推荐]]></title>
+        <id>https://leihaha.github.io/post/ben-zhou-wen-zhang-tui-jian/</id>
+        <link href="https://leihaha.github.io/post/ben-zhou-wen-zhang-tui-jian/">
+        </link>
+        <updated>2020-08-28T03:18:29.000Z</updated>
+        <content type="html"><![CDATA[<p>##MacOS 的安全和隐私指南<br>
+https://github.com/drduh/macOS-Security-and-Privacy-Guide/blob/master/README-cn.md</p>
+<p>##开源项目解说<br>
+https://github.com/HelloGitHub-Team/Article</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Github自用索引]]></title>
+        <id>https://leihaha.github.io/post/github-zi-yong-suo-yin/</id>
+        <link href="https://leihaha.github.io/post/github-zi-yong-suo-yin/">
+        </link>
+        <updated>2020-05-27T06:01:05.000Z</updated>
+        <content type="html"><![CDATA[<p>#其他<br>
+学英语英语英语！！！https://github.com/byoungd/English-level-up-tips-for-Chinese<br>
+如何提问：https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md<br>
+每日阅读：https://github.com/guanguans/favorite-link<br>
+杭州买房：https://github.com/houshanren/hangzhou_house_knowledge<br>
+精选内容：https://github.com/awesomedata/awesome-public-datasets<br>
+精选书籍：https://github.com/hackerkid/Mind-Expanding-Books<br>
+程序员技能图谱：https://github.com/TeamStuQ/skill-map<br>
+学习平台：https://github.com/karlhorky/learn-to-program<br>
+掘金翻译计划：https://github.com/xitu/gold-miner<br>
+开发公交教程：https://github.com/judasn/IntelliJ-IDEA-Tutorial<br>
+开发安全知识须知：https://github.com/FallibleInc/security-guide-for-developers<br>
+反向面试：https://github.com/yifeikong/reverse-interview-zh<br>
+engineering blogs：https://github.com/kilimchoi/engineering-blogs<br>
+国内公司在用框架：https://github.com/davideuler/architecture.of.internet-product</p>
+<p>#Awesome系列<br>
+https://github.com/sindresorhus/awesome</p>
+<p>#软件测试<br>
+开源测试资源：https://github.com/ligurio/awesome-software-quality<br>
+webdriver：https://easonhan007.gitbooks.io/selenium-webdriver/content/<br>
+Jmeter插件：https://github.com/aliesbelik/awesome-jmeter<br>
+Junit4:https://github.com/junit-team/junit4<br>
+渗透测试：https://github.com/enaqx/awesome-pentest<br>
+回归测试：https://github.com/mojoaxel/awesome-regression-testing<br>
+自动化测试：https://github.com/atinfo/awesome-test-automation</p>
+<p>#技术书籍<br>
+中文技术书籍集锦：https://github.com/justjavac/free-programming-books-zh_CN<br>
+开源资料：https://github.com/stormzhang/free-programming-books<br>
+Git中文：https://github.com/geeeeeeeeek/git-recipes</p>
+<p>#基础课程<br>
+《计算机程序的构造和解释》https://github.com/DeathKing/Learning-SICP<br>
+《操作系统》https://github.com/hoverwinter/HIT-OSLab<br>
+《编程之法》：https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/Readme.md<br>
+Awesome CS course：https://github.com/prakhar1989/awesome-courses<br>
+计算机基础知识：https://github.com/CyC2018/CS-Notes</p>
+<p>#编程语言<br>
+Python Guide：https://github.com/realpython/python-guide<br>
+Python 必看视频：https://github.com/s16h/py-must-watch<br>
+Python大全：https://github.com/jobbole/awesome-python-cn<br>
+新手视频：https://github.com/jackfrued/Python-Core-50-Courses<br>
+https://github.com/jackfrued/Python-100-Days</p>
+<p>Awesome Java：https://github.com/akullpp/awesome-java</p>
+<p>#数据库<br>
+Postgress<br>
+1.教程博客：https://github.com/digoal/blog<br>
+Mysql<br>
+mysql大全：https://github.com/jobbole/awesome-mysql-cn</p>
+<p>#大数据<br>
+Awesome Bigdata：https://github.com/onurakpolat/awesome-bigdata<br>
+Elasticsearch权威指南： https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html<br>
+Hadoop 代码：https://github.com/tomwhite/hadoop-book</p>
+<p>#前端<br>
+前端资源汇总：https://github.com/helloqingfeng/Awsome-Front-End-learning-resource<br>
+JavaScript：https://github.com/getify/You-Dont-Know-JS<br>
+JavaScript大全：https://github.com/jobbole/awesome-javascript-cn</p>
+<p>#服务器<br>
+Linux运维问答：https://github.com/trimstray/test-your-sysadmin-skills</p>
+<p>#人工智能<br>
+Awesome AI：https://github.com/owainlewis/awesome-artificial-intelligence<br>
+Awesome AI中文：https://github.com/mazouri/awesome-artificial-intelligence-zh</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[电子书在线搜索站点]]></title>
         <id>https://leihaha.github.io/post/dian-zi-shu-zai-xian-sou-suo-zhan-dian/</id>
